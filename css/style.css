@@ -504,7 +504,7 @@ a {
   margin-top: 30px;
   margin-left: 15px;
 }
-.stats .procent-numbers {
+.stats .percent-numbers {
   margin-top: 33px;
   margin-bottom: 35px;
   font-size: 45px;
@@ -520,7 +520,7 @@ a {
   line-height: 18px;
   color: rgb(40,49,54);
 }
-.stats-item .procent {
+.stats-item .percent {
   font-size: 25px;
   vertical-align: super;
 }
